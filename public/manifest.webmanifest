@@ -1,0 +1,21 @@
+{
+  "name": "Analyze Your Relays",
+  "short_name": "AnalyzeRelays",
+  "description": "Check relay performance and overlap from your browser. Test and compare latency and bandwidth performance when loading kind:1 notes from your followers across different Nostr relays.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
