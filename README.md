@@ -1,3 +1,5 @@
-# MKStack
+# Analyze Your Relays
 
-Template for building Nostr client application with React 18.x, TailwindCSS 3.x, Vite, shadcn/ui, and Nostrify.# analyze-your-relays
+Check relay performance and overlap from your browser
+
+
